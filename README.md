@@ -4,3 +4,5 @@ Welcome to our Wiki, a place for comprehensive documentation on all the SimPHY t
 
 # About SimPHY
 > Simphy is a simulation software to create 2D and 3D simulations with easy drag and drop options. You can create simulations for various branches of physics like mechanics, optics, circuits and electrodynamics and visualise and analyze them using dedicated math tools.
+
+Visit [simphy.com] to download.
